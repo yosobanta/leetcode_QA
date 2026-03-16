@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/yosobanta/leetcode_QA/tree/master/1025-divisor-game) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -21,9 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 ## Greedy
 |  |
 | ------- |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
