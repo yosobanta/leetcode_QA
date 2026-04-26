@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1025-divisor-game](https://github.com/yosobanta/leetcode_QA/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yosobanta/leetcode_QA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 ## Greedy
 |  |
 | ------- |
@@ -50,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 ## Sorting
 |  |
 | ------- |
@@ -90,10 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 ## Union-Find
 |  |
 | ------- |
@@ -102,4 +107,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
+| [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 <!---LeetCode Topics End-->
