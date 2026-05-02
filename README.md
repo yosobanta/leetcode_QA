@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
 ## Greedy
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0529-minesweeper](https://github.com/yosobanta/leetcode_QA/tree/master/0529-minesweeper) |
 | [0931-minimum-falling-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0931-minimum-falling-path-sum) |
+| [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
 ## String
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/yosobanta/leetcode_QA/tree/master/0300-longest-increasing-subsequence) |
+| [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/yosobanta/leetcode_QA/tree/master/0841-keys-and-rooms) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
+| [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
 ## Union-Find
 |  |
 | ------- |
