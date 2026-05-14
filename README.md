@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yosobanta/leetcode_QA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
+| [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
 ## Greedy
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/yosobanta/leetcode_QA/tree/master/0164-maximum-gap) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
+| [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -140,4 +142,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yosobanta/leetcode_QA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
+## Simulation
+|  |
+| ------- |
+| [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
 <!---LeetCode Topics End-->
