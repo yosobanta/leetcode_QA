@@ -152,4 +152,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/yosobanta/leetcode_QA/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
