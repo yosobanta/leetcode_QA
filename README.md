@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/yosobanta/leetcode_QA/tree/master/0135-candy) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/yosobanta/leetcode_QA/tree/master/0164-maximum-gap) |
 | [0213-house-robber-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/yosobanta/leetcode_QA/tree/master/0300-longest-increasing-subsequence) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/yosobanta/leetcode_QA/tree/master/0300-longest-increasing-subsequence) |
 | [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
 ## Hash Table
