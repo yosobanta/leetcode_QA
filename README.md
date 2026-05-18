@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/yosobanta/leetcode_QA/tree/master/0060-permutation-sequence) |
 | [1025-divisor-game](https://github.com/yosobanta/leetcode_QA/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
@@ -162,4 +163,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0183-customers-who-never-order](https://github.com/yosobanta/leetcode_QA/tree/master/0183-customers-who-never-order) |
 | [0595-big-countries](https://github.com/yosobanta/leetcode_QA/tree/master/0595-big-countries) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/yosobanta/leetcode_QA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
