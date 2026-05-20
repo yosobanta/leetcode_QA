@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/yosobanta/leetcode_QA/tree/master/0046-permutations) |
 | [0135-candy](https://github.com/yosobanta/leetcode_QA/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/yosobanta/leetcode_QA/tree/master/0164-maximum-gap) |
@@ -187,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yosobanta/leetcode_QA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/yosobanta/leetcode_QA/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
