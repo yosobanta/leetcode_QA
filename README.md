@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/yosobanta/leetcode_QA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yosobanta/leetcode_QA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Greedy
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/yosobanta/leetcode_QA/tree/master/0664-strange-printer) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yosobanta/leetcode_QA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Binary Search
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yosobanta/leetcode_QA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/yosobanta/leetcode_QA/tree/master/2540-minimum-common-value) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yosobanta/leetcode_QA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -192,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/yosobanta/leetcode_QA/tree/master/0046-permutations) |
+## Trie
+|  |
+| ------- |
+| [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 <!---LeetCode Topics End-->
