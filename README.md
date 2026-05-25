@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/yosobanta/leetcode_QA/tree/master/0006-zigzag-conversion) |
 | [0474-ones-and-zeroes](https://github.com/yosobanta/leetcode_QA/tree/master/0474-ones-and-zeroes) |
 | [0664-strange-printer](https://github.com/yosobanta/leetcode_QA/tree/master/0664-strange-printer) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
