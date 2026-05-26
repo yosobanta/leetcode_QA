@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yosobanta/leetcode_QA/tree/master/0055-jump-game) |
 | [0213-house-robber-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/yosobanta/leetcode_QA/tree/master/0300-longest-increasing-subsequence) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yosobanta/leetcode_QA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0045-jump-game-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yosobanta/leetcode_QA/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/yosobanta/leetcode_QA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/yosobanta/leetcode_QA/tree/master/0135-candy) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yosobanta/leetcode_QA/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/yosobanta/leetcode_QA/tree/master/0135-candy) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
