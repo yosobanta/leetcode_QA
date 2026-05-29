@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/yosobanta/leetcode_QA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/yosobanta/leetcode_QA/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yosobanta/leetcode_QA/tree/master/0886-possible-bipartition) |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yosobanta/leetcode_QA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/yosobanta/leetcode_QA/tree/master/1162-as-far-from-land-as-possible) |
 | [1302-deepest-leaves-sum](https://github.com/yosobanta/leetcode_QA/tree/master/1302-deepest-leaves-sum) |
@@ -197,10 +198,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/yosobanta/leetcode_QA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0958-check-completeness-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/yosobanta/leetcode_QA/tree/master/1302-deepest-leaves-sum) |
 ## Bit Manipulation
 |  |
