@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/yosobanta/leetcode_QA/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
+| [3115-maximum-prime-difference](https://github.com/yosobanta/leetcode_QA/tree/master/3115-maximum-prime-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yosobanta/leetcode_QA/tree/master/3783-mirror-distance-of-an-integer) |
 ## Dynamic Programming
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yosobanta/leetcode_QA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+| [3115-maximum-prime-difference](https://github.com/yosobanta/leetcode_QA/tree/master/3115-maximum-prime-difference) |
 ## Greedy
 |  |
 | ------- |
@@ -217,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [3115-maximum-prime-difference](https://github.com/yosobanta/leetcode_QA/tree/master/3115-maximum-prime-difference) |
 <!---LeetCode Topics End-->
