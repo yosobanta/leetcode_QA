@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/yosobanta/leetcode_QA/tree/master/0060-permutation-sequence) |
+| [0206-reverse-linked-list](https://github.com/yosobanta/leetcode_QA/tree/master/0206-reverse-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -238,4 +239,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yosobanta/leetcode_QA/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
