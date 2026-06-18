@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yosobanta/leetcode_QA/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/yosobanta/leetcode_QA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/yosobanta/leetcode_QA/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0135-candy](https://github.com/yosobanta/leetcode_QA/tree/master/0135-candy) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
