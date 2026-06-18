@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/yosobanta/leetcode_QA/tree/master/0060-permutation-sequence) |
 | [1025-divisor-game](https://github.com/yosobanta/leetcode_QA/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/yosobanta/leetcode_QA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 | [3115-maximum-prime-difference](https://github.com/yosobanta/leetcode_QA/tree/master/3115-maximum-prime-difference) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yosobanta/leetcode_QA/tree/master/3783-mirror-distance-of-an-integer) |
