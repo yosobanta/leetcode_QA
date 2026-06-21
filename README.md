@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yosobanta/leetcode_QA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
 | [2540-minimum-common-value](https://github.com/yosobanta/leetcode_QA/tree/master/2540-minimum-common-value) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
+| [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
 ## Geometry
 |  |
 | ------- |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
+| [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
 | [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
 ## Bucket Sort
 |  |
@@ -266,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/yosobanta/leetcode_QA/tree/master/0509-fibonacci-number) |
+## Counting Sort
+|  |
+| ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
 <!---LeetCode Topics End-->
