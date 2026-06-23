@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yosobanta/leetcode_QA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1813-sentence-similarity-iii](https://github.com/yosobanta/leetcode_QA/tree/master/1813-sentence-similarity-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/yosobanta/leetcode_QA/tree/master/0664-strange-printer) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1754-largest-merge-of-two-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1754-largest-merge-of-two-strings) |
+| [1813-sentence-similarity-iii](https://github.com/yosobanta/leetcode_QA/tree/master/1813-sentence-similarity-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yosobanta/leetcode_QA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/yosobanta/leetcode_QA/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1754-largest-merge-of-two-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1754-largest-merge-of-two-strings) |
+| [1813-sentence-similarity-iii](https://github.com/yosobanta/leetcode_QA/tree/master/1813-sentence-similarity-iii) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/yosobanta/leetcode_QA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yosobanta/leetcode_QA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2540-minimum-common-value](https://github.com/yosobanta/leetcode_QA/tree/master/2540-minimum-common-value) |
