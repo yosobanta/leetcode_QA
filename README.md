@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0039-combination-sum) |
 | [0045-jump-game-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yosobanta/leetcode_QA/tree/master/0046-permutations) |
+| [0049-group-anagrams](https://github.com/yosobanta/leetcode_QA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/yosobanta/leetcode_QA/tree/master/0055-jump-game) |
 | [0057-insert-interval](https://github.com/yosobanta/leetcode_QA/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/yosobanta/leetcode_QA/tree/master/0049-group-anagrams) |
 | [0164-maximum-gap](https://github.com/yosobanta/leetcode_QA/tree/master/0164-maximum-gap) |
 | [0435-non-overlapping-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
@@ -127,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/yosobanta/leetcode_QA/tree/master/0006-zigzag-conversion) |
+| [0049-group-anagrams](https://github.com/yosobanta/leetcode_QA/tree/master/0049-group-anagrams) |
 | [0474-ones-and-zeroes](https://github.com/yosobanta/leetcode_QA/tree/master/0474-ones-and-zeroes) |
 | [0664-strange-printer](https://github.com/yosobanta/leetcode_QA/tree/master/0664-strange-printer) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/yosobanta/leetcode_QA/tree/master/0049-group-anagrams) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yosobanta/leetcode_QA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2540-minimum-common-value](https://github.com/yosobanta/leetcode_QA/tree/master/2540-minimum-common-value) |
