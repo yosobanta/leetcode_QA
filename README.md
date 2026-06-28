@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/yosobanta/leetcode_QA/tree/master/0060-permutation-sequence) |
+| [0172-factorial-trailing-zeroes](https://github.com/yosobanta/leetcode_QA/tree/master/0172-factorial-trailing-zeroes) |
 | [0509-fibonacci-number](https://github.com/yosobanta/leetcode_QA/tree/master/0509-fibonacci-number) |
 | [1025-divisor-game](https://github.com/yosobanta/leetcode_QA/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
