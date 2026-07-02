@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yosobanta/leetcode_QA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1813-sentence-similarity-iii](https://github.com/yosobanta/leetcode_QA/tree/master/1813-sentence-similarity-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
+| [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/yosobanta/leetcode_QA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yosobanta/leetcode_QA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yosobanta/leetcode_QA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Memoization
 |  |
@@ -308,4 +311,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/yosobanta/leetcode_QA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
 <!---LeetCode Topics End-->
