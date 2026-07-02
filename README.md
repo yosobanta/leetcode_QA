@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yosobanta/leetcode_QA/tree/master/0055-jump-game) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/yosobanta/leetcode_QA/tree/master/0300-longest-increasing-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0435-non-overlapping-intervals) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0529-minesweeper](https://github.com/yosobanta/leetcode_QA/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/yosobanta/leetcode_QA/tree/master/0785-is-graph-bipartite) |
@@ -257,12 +259,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/yosobanta/leetcode_QA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/yosobanta/leetcode_QA/tree/master/1302-deepest-leaves-sum) |
 ## Bit Manipulation
