@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/yosobanta/leetcode_QA/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/yosobanta/leetcode_QA/tree/master/0049-group-anagrams) |
+| [0208-implement-trie-prefix-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0208-implement-trie-prefix-tree) |
 | [0474-ones-and-zeroes](https://github.com/yosobanta/leetcode_QA/tree/master/0474-ones-and-zeroes) |
 | [0664-strange-printer](https://github.com/yosobanta/leetcode_QA/tree/master/0664-strange-printer) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/yosobanta/leetcode_QA/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/yosobanta/leetcode_QA/tree/master/0202-happy-number) |
+| [0208-implement-trie-prefix-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0208-implement-trie-prefix-tree) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yosobanta/leetcode_QA/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/yosobanta/leetcode_QA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0208-implement-trie-prefix-tree) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 ## Number Theory
 |  |
@@ -328,4 +331,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2761-prime-pairs-with-target-sum](https://github.com/yosobanta/leetcode_QA/tree/master/2761-prime-pairs-with-target-sum) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
