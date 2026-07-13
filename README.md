@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0529-minesweeper](https://github.com/yosobanta/leetcode_QA/tree/master/0529-minesweeper) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0101-symmetric-tree) |
 | [0529-minesweeper](https://github.com/yosobanta/leetcode_QA/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/yosobanta/leetcode_QA/tree/master/0785-is-graph-bipartite) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0144-binary-tree-preorder-traversal) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0100-same-tree) |
+| [0101-symmetric-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0101-symmetric-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0144-binary-tree-preorder-traversal) |
