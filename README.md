@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0124-binary-tree-maximum-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0529-minesweeper](https://github.com/yosobanta/leetcode_QA/tree/master/0529-minesweeper) |
+| [0543-diameter-of-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/yosobanta/leetcode_QA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/yosobanta/leetcode_QA/tree/master/0841-keys-and-rooms) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/yosobanta/leetcode_QA/tree/master/1302-deepest-leaves-sum) |
 ## Binary Tree
@@ -290,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0543-diameter-of-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0543-diameter-of-binary-tree) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1302-deepest-leaves-sum](https://github.com/yosobanta/leetcode_QA/tree/master/1302-deepest-leaves-sum) |
 ## Bit Manipulation
