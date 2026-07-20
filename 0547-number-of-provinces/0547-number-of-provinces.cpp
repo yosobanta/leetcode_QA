@@ -1,31 +1,52 @@
-class Solution {
+class DSU {
 public:
-    void dfs(int i, vector<int>& vis, vector<vector<int>>& adjlist) {
-        vis[i] = 1;
-        for (auto it : adjlist[i]) {
-            if (vis[it] == 0) {
-                dfs(it, vis, adjlist);
-            }
+    vector<int> parent, ranks;
+    int components;
+    DSU(int n) {
+        parent.resize(n + 1);
+        ranks.resize(n + 1, 1);
+        components = n;
+        for (int i = 0; i < n; i++) {
+            parent[i] = i;
         }
     }
+    int findparent(int u) {
+        if (parent[u] == u)
+            return u;
+        return parent[u] = findparent(parent[u]);
+    }
+    void merge(int u, int v) {
+        int u_parent = findparent(u);
+        int v_parent = findparent(v);
+        if (u_parent != v_parent) {
+            if (ranks[u_parent] <= ranks[v_parent]) {
+                parent[u_parent] = v_parent;
+                ranks[v_parent]++;
+            } else {
+                parent[v_parent] = u_parent;
+                ranks[u_parent]++;
+            }
+            components--;
+        }
+        
+    }
+}; 
+class Solution {
+public:
     int findCircleNum(vector<vector<int>>& isConnected) {
-        vector<vector<int>> adjlist(isConnected.size());
-        for (int i = 0; i < isConnected.size(); i++) {
-            for(int j = 0;j<isConnected[0].size();j++){
-                if(isConnected[i][j]==1 && i!=j){
-                    adjlist[i].push_back(j);
-                    adjlist[j].push_back(i);
+        int n = isConnected.size();
+        DSU dsu(n);
+        for (int i = 0; i < n; i++) {
+            for (int j = i + 1; j < n; j++) {
+                if (isConnected[i][j] == 1) {
+                    dsu.merge(i, j);
                 }
             }
         }
-        vector<int> vis(isConnected.size(), 0);
-        int count = 0;
-        for (int i = 0; i < vis.size(); i++) {
-            if (vis[i] == 0) {
-                dfs(i, vis, adjlist);
-                count++;
-            }
-        }
-        return count;
+        return dsu.components;
     }
 };
+
+// 1 1 0
+// 1 1 0
+// 0 0 1
