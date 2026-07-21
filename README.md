@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/yosobanta/leetcode_QA/tree/master/0502-ipo) |
 | [0529-minesweeper](https://github.com/yosobanta/leetcode_QA/tree/master/0529-minesweeper) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [0931-minimum-falling-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0931-minimum-falling-path-sum) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yosobanta/leetcode_QA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/yosobanta/leetcode_QA/tree/master/0502-ipo) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
+| [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0208-implement-trie-prefix-tree) |
 | [0474-ones-and-zeroes](https://github.com/yosobanta/leetcode_QA/tree/master/0474-ones-and-zeroes) |
 | [0664-strange-printer](https://github.com/yosobanta/leetcode_QA/tree/master/0664-strange-printer) |
+| [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1754-largest-merge-of-two-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1754-largest-merge-of-two-strings) |
 | [1813-sentence-similarity-iii](https://github.com/yosobanta/leetcode_QA/tree/master/1813-sentence-similarity-iii) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/yosobanta/leetcode_QA/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/yosobanta/leetcode_QA/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0208-implement-trie-prefix-tree) |
+| [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yosobanta/leetcode_QA/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -207,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yosobanta/leetcode_QA/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/yosobanta/leetcode_QA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/yosobanta/leetcode_QA/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yosobanta/leetcode_QA/tree/master/0886-possible-bipartition) |
@@ -222,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0529-minesweeper](https://github.com/yosobanta/leetcode_QA/tree/master/0529-minesweeper) |
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yosobanta/leetcode_QA/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/yosobanta/leetcode_QA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/yosobanta/leetcode_QA/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yosobanta/leetcode_QA/tree/master/0886-possible-bipartition) |
@@ -238,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yosobanta/leetcode_QA/tree/master/0684-redundant-connection) |
+| [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [0785-is-graph-bipartite](https://github.com/yosobanta/leetcode_QA/tree/master/0785-is-graph-bipartite) |
 | [0886-possible-bipartition](https://github.com/yosobanta/leetcode_QA/tree/master/0886-possible-bipartition) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yosobanta/leetcode_QA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
