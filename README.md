@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yosobanta/leetcode_QA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yosobanta/leetcode_QA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1765-map-of-highest-peak](https://github.com/yosobanta/leetcode_QA/tree/master/1765-map-of-highest-peak) |
 | [1813-sentence-similarity-iii](https://github.com/yosobanta/leetcode_QA/tree/master/1813-sentence-similarity-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
 | [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0931-minimum-falling-path-sum) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yosobanta/leetcode_QA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/yosobanta/leetcode_QA/tree/master/1162-as-far-from-land-as-possible) |
+| [1765-map-of-highest-peak](https://github.com/yosobanta/leetcode_QA/tree/master/1765-map-of-highest-peak) |
 | [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
 ## String
 |  |
@@ -239,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/yosobanta/leetcode_QA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/yosobanta/leetcode_QA/tree/master/1162-as-far-from-land-as-possible) |
 | [1302-deepest-leaves-sum](https://github.com/yosobanta/leetcode_QA/tree/master/1302-deepest-leaves-sum) |
+| [1765-map-of-highest-peak](https://github.com/yosobanta/leetcode_QA/tree/master/1765-map-of-highest-peak) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/yosobanta/leetcode_QA/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
