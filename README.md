@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [0931-minimum-falling-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0931-minimum-falling-path-sum) |
+| [0941-valid-mountain-array](https://github.com/yosobanta/leetcode_QA/tree/master/0941-valid-mountain-array) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/yosobanta/leetcode_QA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/yosobanta/leetcode_QA/tree/master/1162-as-far-from-land-as-possible) |
