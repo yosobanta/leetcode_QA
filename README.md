@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/yosobanta/leetcode_QA/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/yosobanta/leetcode_QA/tree/master/0202-happy-number) |
 | [0509-fibonacci-number](https://github.com/yosobanta/leetcode_QA/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yosobanta/leetcode_QA/tree/master/0628-maximum-product-of-three-numbers) |
 | [1025-divisor-game](https://github.com/yosobanta/leetcode_QA/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yosobanta/leetcode_QA/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/yosobanta/leetcode_QA/tree/master/0474-ones-and-zeroes) |
 | [0502-ipo](https://github.com/yosobanta/leetcode_QA/tree/master/0502-ipo) |
 | [0529-minesweeper](https://github.com/yosobanta/leetcode_QA/tree/master/0529-minesweeper) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yosobanta/leetcode_QA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [0931-minimum-falling-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0931-minimum-falling-path-sum) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0164-maximum-gap](https://github.com/yosobanta/leetcode_QA/tree/master/0164-maximum-gap) |
 | [0435-non-overlapping-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/yosobanta/leetcode_QA/tree/master/0502-ipo) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yosobanta/leetcode_QA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
