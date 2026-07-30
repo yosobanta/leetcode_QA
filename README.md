@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/yosobanta/leetcode_QA/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/yosobanta/leetcode_QA/tree/master/2761-prime-pairs-with-target-sum) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yosobanta/leetcode_QA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/yosobanta/leetcode_QA/tree/master/3099-harshad-number) |
 | [3115-maximum-prime-difference](https://github.com/yosobanta/leetcode_QA/tree/master/3115-maximum-prime-difference) |
 | [3536-maximum-product-of-two-digits](https://github.com/yosobanta/leetcode_QA/tree/master/3536-maximum-product-of-two-digits) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/yosobanta/leetcode_QA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/yosobanta/leetcode_QA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yosobanta/leetcode_QA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Geometry
 |  |
 | ------- |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1754-largest-merge-of-two-strings) |
 | [1813-sentence-similarity-iii](https://github.com/yosobanta/leetcode_QA/tree/master/1813-sentence-similarity-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yosobanta/leetcode_QA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yosobanta/leetcode_QA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/yosobanta/leetcode_QA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yosobanta/leetcode_QA/tree/master/3121-count-the-number-of-special-characters-ii) |
