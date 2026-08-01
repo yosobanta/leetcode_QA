@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yosobanta/leetcode_QA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3099-harshad-number](https://github.com/yosobanta/leetcode_QA/tree/master/3099-harshad-number) |
 | [3115-maximum-prime-difference](https://github.com/yosobanta/leetcode_QA/tree/master/3115-maximum-prime-difference) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/yosobanta/leetcode_QA/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/yosobanta/leetcode_QA/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yosobanta/leetcode_QA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/yosobanta/leetcode_QA/tree/master/3783-mirror-distance-of-an-integer) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0486-predict-the-winner](https://github.com/yosobanta/leetcode_QA/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/yosobanta/leetcode_QA/tree/master/1025-divisor-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/yosobanta/leetcode_QA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Array
 |  |
 | ------- |
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/yosobanta/leetcode_QA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Database
 |  |
 | ------- |
