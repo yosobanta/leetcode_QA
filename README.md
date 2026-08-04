@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/yosobanta/leetcode_QA/tree/master/1025-divisor-game) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1162-as-far-from-land-as-possible](https://github.com/yosobanta/leetcode_QA/tree/master/1162-as-far-from-land-as-possible) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/yosobanta/leetcode_QA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1626-best-team-with-no-conflicts](https://github.com/yosobanta/leetcode_QA/tree/master/1626-best-team-with-no-conflicts) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/yosobanta/leetcode_QA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/yosobanta/leetcode_QA/tree/master/1162-as-far-from-land-as-possible) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/yosobanta/leetcode_QA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yosobanta/leetcode_QA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yosobanta/leetcode_QA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/yosobanta/leetcode_QA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yosobanta/leetcode_QA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1626-best-team-with-no-conflicts](https://github.com/yosobanta/leetcode_QA/tree/master/1626-best-team-with-no-conflicts) |
 | [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/yosobanta/leetcode_QA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/yosobanta/leetcode_QA/tree/master/0300-longest-increasing-subsequence) |
+| [1235-maximum-profit-in-job-scheduling](https://github.com/yosobanta/leetcode_QA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2258-escape-the-spreading-fire](https://github.com/yosobanta/leetcode_QA/tree/master/2258-escape-the-spreading-fire) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/yosobanta/leetcode_QA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/yosobanta/leetcode_QA/tree/master/2540-minimum-common-value) |
