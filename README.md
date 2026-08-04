@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/yosobanta/leetcode_QA/tree/master/1626-best-team-with-no-conflicts) |
 | [2008-maximum-earnings-from-taxi](https://github.com/yosobanta/leetcode_QA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/yosobanta/leetcode_QA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 ## Brainteaser
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2653-sliding-subarray-beauty](https://github.com/yosobanta/leetcode_QA/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yosobanta/leetcode_QA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/yosobanta/leetcode_QA/tree/master/2761-prime-pairs-with-target-sum) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/yosobanta/leetcode_QA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3115-maximum-prime-difference](https://github.com/yosobanta/leetcode_QA/tree/master/3115-maximum-prime-difference) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2008-maximum-earnings-from-taxi](https://github.com/yosobanta/leetcode_QA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/yosobanta/leetcode_QA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/yosobanta/leetcode_QA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/yosobanta/leetcode_QA/tree/master/3536-maximum-product-of-two-digits) |
 ## Bucket Sort
@@ -205,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/yosobanta/leetcode_QA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/yosobanta/leetcode_QA/tree/master/2540-minimum-common-value) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/yosobanta/leetcode_QA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 ## Hash Table
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/yosobanta/leetcode_QA/tree/master/2540-minimum-common-value) |
 | [2653-sliding-subarray-beauty](https://github.com/yosobanta/leetcode_QA/tree/master/2653-sliding-subarray-beauty) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yosobanta/leetcode_QA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2830-maximize-the-profit-as-the-salesman](https://github.com/yosobanta/leetcode_QA/tree/master/2830-maximize-the-profit-as-the-salesman) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/yosobanta/leetcode_QA/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/yosobanta/leetcode_QA/tree/master/3121-count-the-number-of-special-characters-ii) |
