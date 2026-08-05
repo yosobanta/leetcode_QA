@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yosobanta/leetcode_QA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
+| [0904-fruit-into-baskets](https://github.com/yosobanta/leetcode_QA/tree/master/0904-fruit-into-baskets) |
 | [0931-minimum-falling-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0931-minimum-falling-path-sum) |
 | [0941-valid-mountain-array](https://github.com/yosobanta/leetcode_QA/tree/master/0941-valid-mountain-array) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/yosobanta/leetcode_QA/tree/master/0202-happy-number) |
 | [0208-implement-trie-prefix-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0208-implement-trie-prefix-tree) |
 | [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
+| [0904-fruit-into-baskets](https://github.com/yosobanta/leetcode_QA/tree/master/0904-fruit-into-baskets) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0904-fruit-into-baskets](https://github.com/yosobanta/leetcode_QA/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/yosobanta/leetcode_QA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/yosobanta/leetcode_QA/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2653-sliding-subarray-beauty](https://github.com/yosobanta/leetcode_QA/tree/master/2653-sliding-subarray-beauty) |
