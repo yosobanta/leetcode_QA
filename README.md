@@ -187,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0208-implement-trie-prefix-tree) |
 | [0474-ones-and-zeroes](https://github.com/yosobanta/leetcode_QA/tree/master/0474-ones-and-zeroes) |
 | [0664-strange-printer](https://github.com/yosobanta/leetcode_QA/tree/master/0664-strange-printer) |
+| [0686-repeated-string-match](https://github.com/yosobanta/leetcode_QA/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1754-largest-merge-of-two-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1754-largest-merge-of-two-strings) |
@@ -434,4 +435,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1626-best-team-with-no-conflicts](https://github.com/yosobanta/leetcode_QA/tree/master/1626-best-team-with-no-conflicts) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/yosobanta/leetcode_QA/tree/master/0686-repeated-string-match) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/yosobanta/leetcode_QA/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/yosobanta/leetcode_QA/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/yosobanta/leetcode_QA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
