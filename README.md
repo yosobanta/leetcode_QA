@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/yosobanta/leetcode_QA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/yosobanta/leetcode_QA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/yosobanta/leetcode_QA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yosobanta/leetcode_QA/tree/master/0057-insert-interval) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/yosobanta/leetcode_QA/tree/master/0128-longest-consecutive-sequence) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/yosobanta/leetcode_QA/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/yosobanta/leetcode_QA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0056-merge-intervals) |
 | [0164-maximum-gap](https://github.com/yosobanta/leetcode_QA/tree/master/0164-maximum-gap) |
 | [0435-non-overlapping-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0435-non-overlapping-intervals) |
 | [0502-ipo](https://github.com/yosobanta/leetcode_QA/tree/master/0502-ipo) |
@@ -461,4 +463,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0686-repeated-string-match](https://github.com/yosobanta/leetcode_QA/tree/master/0686-repeated-string-match) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
