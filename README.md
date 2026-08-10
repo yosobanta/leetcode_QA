@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/yosobanta/leetcode_QA/tree/master/1025-divisor-game) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/yosobanta/leetcode_QA/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/yosobanta/leetcode_QA/tree/master/1344-angle-between-hands-of-a-clock) |
+| [1641-count-sorted-vowel-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1641-count-sorted-vowel-strings) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2761-prime-pairs-with-target-sum](https://github.com/yosobanta/leetcode_QA/tree/master/2761-prime-pairs-with-target-sum) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yosobanta/leetcode_QA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yosobanta/leetcode_QA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1626-best-team-with-no-conflicts](https://github.com/yosobanta/leetcode_QA/tree/master/1626-best-team-with-no-conflicts) |
+| [1641-count-sorted-vowel-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1641-count-sorted-vowel-strings) |
 | [2008-maximum-earnings-from-taxi](https://github.com/yosobanta/leetcode_QA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
 | [2830-maximize-the-profit-as-the-salesman](https://github.com/yosobanta/leetcode_QA/tree/master/2830-maximize-the-profit-as-the-salesman) |
@@ -467,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0056-merge-intervals) |
+## Combinatorics
+|  |
+| ------- |
+| [1641-count-sorted-vowel-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1641-count-sorted-vowel-strings) |
 <!---LeetCode Topics End-->
