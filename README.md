@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-sentence-similarity-iii](https://github.com/yosobanta/leetcode_QA/tree/master/1813-sentence-similarity-iii) |
 | [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
 | [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/yosobanta/leetcode_QA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2008-maximum-earnings-from-taxi](https://github.com/yosobanta/leetcode_QA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2101-detonate-the-maximum-bombs](https://github.com/yosobanta/leetcode_QA/tree/master/2101-detonate-the-maximum-bombs) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/yosobanta/leetcode_QA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1326-minimum-number-of-taps-to-open-to-water-a-garden](https://github.com/yosobanta/leetcode_QA/tree/master/1326-minimum-number-of-taps-to-open-to-water-a-garden) |
 | [1754-largest-merge-of-two-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1754-largest-merge-of-two-strings) |
 | [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/yosobanta/leetcode_QA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2244-minimum-rounds-to-complete-all-tasks](https://github.com/yosobanta/leetcode_QA/tree/master/2244-minimum-rounds-to-complete-all-tasks) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/yosobanta/leetcode_QA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -163,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1626-best-team-with-no-conflicts](https://github.com/yosobanta/leetcode_QA/tree/master/1626-best-team-with-no-conflicts) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1833-maximum-ice-cream-bars](https://github.com/yosobanta/leetcode_QA/tree/master/1833-maximum-ice-cream-bars) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/yosobanta/leetcode_QA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2008-maximum-earnings-from-taxi](https://github.com/yosobanta/leetcode_QA/tree/master/2008-maximum-earnings-from-taxi) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/yosobanta/leetcode_QA/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2616-minimize-the-maximum-difference-of-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/2616-minimize-the-maximum-difference-of-pairs) |
@@ -423,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/yosobanta/leetcode_QA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/yosobanta/leetcode_QA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Memoization
 |  |
@@ -437,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/yosobanta/leetcode_QA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Enumeration
 |  |
 | ------- |
