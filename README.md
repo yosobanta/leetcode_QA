@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1754-largest-merge-of-two-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1754-largest-merge-of-two-strings) |
 | [1813-sentence-similarity-iii](https://github.com/yosobanta/leetcode_QA/tree/master/1813-sentence-similarity-iii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/yosobanta/leetcode_QA/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/yosobanta/leetcode_QA/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yosobanta/leetcode_QA/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/yosobanta/leetcode_QA/tree/master/3043-find-the-length-of-the-longest-common-prefix) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/yosobanta/leetcode_QA/tree/master/3120-count-the-number-of-special-characters-i) |
