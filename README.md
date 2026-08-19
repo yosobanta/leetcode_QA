@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yosobanta/leetcode_QA/tree/master/0628-maximum-product-of-three-numbers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/yosobanta/leetcode_QA/tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
+| [0761-special-binary-string](https://github.com/yosobanta/leetcode_QA/tree/master/0761-special-binary-string) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yosobanta/leetcode_QA/tree/master/1235-maximum-profit-in-job-scheduling) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0664-strange-printer](https://github.com/yosobanta/leetcode_QA/tree/master/0664-strange-printer) |
 | [0686-repeated-string-match](https://github.com/yosobanta/leetcode_QA/tree/master/0686-repeated-string-match) |
 | [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
+| [0761-special-binary-string](https://github.com/yosobanta/leetcode_QA/tree/master/0761-special-binary-string) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1754-largest-merge-of-two-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1754-largest-merge-of-two-strings) |
 | [1813-sentence-similarity-iii](https://github.com/yosobanta/leetcode_QA/tree/master/1813-sentence-similarity-iii) |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0761-special-binary-string](https://github.com/yosobanta/leetcode_QA/tree/master/0761-special-binary-string) |
 ## Binary Search Tree
 |  |
 | ------- |
