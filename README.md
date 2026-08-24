@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yosobanta/leetcode_QA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/yosobanta/leetcode_QA/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0124-binary-tree-maximum-path-sum) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yosobanta/leetcode_QA/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yosobanta/leetcode_QA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/yosobanta/leetcode_QA/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yosobanta/leetcode_QA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/yosobanta/leetcode_QA/tree/master/0049-group-anagrams) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yosobanta/leetcode_QA/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/yosobanta/leetcode_QA/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/yosobanta/leetcode_QA/tree/master/0202-happy-number) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -427,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yosobanta/leetcode_QA/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
@@ -444,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/yosobanta/leetcode_QA/tree/master/0042-trapping-rain-water) |
 | [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/yosobanta/leetcode_QA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Enumeration
