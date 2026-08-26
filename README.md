@@ -278,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yosobanta/leetcode_QA/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/yosobanta/leetcode_QA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yosobanta/leetcode_QA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/yosobanta/leetcode_QA/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yosobanta/leetcode_QA/tree/master/0886-possible-bipartition) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yosobanta/leetcode_QA/tree/master/0684-redundant-connection) |
 | [0721-accounts-merge](https://github.com/yosobanta/leetcode_QA/tree/master/0721-accounts-merge) |
+| [0743-network-delay-time](https://github.com/yosobanta/leetcode_QA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yosobanta/leetcode_QA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/yosobanta/leetcode_QA/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yosobanta/leetcode_QA/tree/master/0886-possible-bipartition) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0547-number-of-provinces](https://github.com/yosobanta/leetcode_QA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/yosobanta/leetcode_QA/tree/master/0684-redundant-connection) |
+| [0743-network-delay-time](https://github.com/yosobanta/leetcode_QA/tree/master/0743-network-delay-time) |
 | [0785-is-graph-bipartite](https://github.com/yosobanta/leetcode_QA/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/yosobanta/leetcode_QA/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/yosobanta/leetcode_QA/tree/master/0886-possible-bipartition) |
@@ -344,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/yosobanta/leetcode_QA/tree/master/0502-ipo) |
+| [0743-network-delay-time](https://github.com/yosobanta/leetcode_QA/tree/master/0743-network-delay-time) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/yosobanta/leetcode_QA/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
 ## Simulation
@@ -492,10 +496,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/yosobanta/leetcode_QA/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yosobanta/leetcode_QA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/yosobanta/leetcode_QA/tree/master/0743-network-delay-time) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yosobanta/leetcode_QA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 ## Bellman–Ford Algorithm
 |  |
