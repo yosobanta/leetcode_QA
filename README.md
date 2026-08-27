@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/yosobanta/leetcode_QA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yosobanta/leetcode_QA/tree/master/0057-insert-interval) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yosobanta/leetcode_QA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yosobanta/leetcode_QA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0128-longest-consecutive-sequence](https://github.com/yosobanta/leetcode_QA/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/yosobanta/leetcode_QA/tree/master/0135-candy) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yosobanta/leetcode_QA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yosobanta/leetcode_QA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/yosobanta/leetcode_QA/tree/master/0144-binary-tree-preorder-traversal) |
 | [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
@@ -455,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/yosobanta/leetcode_QA/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/yosobanta/leetcode_QA/tree/master/0084-largest-rectangle-in-histogram) |
 | [1856-maximum-subarray-min-product](https://github.com/yosobanta/leetcode_QA/tree/master/1856-maximum-subarray-min-product) |
 | [1996-the-number-of-weak-characters-in-the-game](https://github.com/yosobanta/leetcode_QA/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Enumeration
@@ -511,4 +514,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/yosobanta/leetcode_QA/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/yosobanta/leetcode_QA/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
