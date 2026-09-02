@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/yosobanta/leetcode_QA/tree/master/0164-maximum-gap) |
 | [0213-house-robber-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0213-house-robber-ii) |
+| [0287-find-the-duplicate-number](https://github.com/yosobanta/leetcode_QA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yosobanta/leetcode_QA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/yosobanta/leetcode_QA/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0416-partition-equal-subset-sum) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/yosobanta/leetcode_QA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/yosobanta/leetcode_QA/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/yosobanta/leetcode_QA/tree/master/0300-longest-increasing-subsequence) |
 | [1235-maximum-profit-in-job-scheduling](https://github.com/yosobanta/leetcode_QA/tree/master/1235-maximum-profit-in-job-scheduling) |
 | [2008-maximum-earnings-from-taxi](https://github.com/yosobanta/leetcode_QA/tree/master/2008-maximum-earnings-from-taxi) |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/yosobanta/leetcode_QA/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/yosobanta/leetcode_QA/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/yosobanta/leetcode_QA/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/yosobanta/leetcode_QA/tree/master/0287-find-the-duplicate-number) |
 | [1048-longest-string-chain](https://github.com/yosobanta/leetcode_QA/tree/master/1048-longest-string-chain) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/yosobanta/leetcode_QA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1754-largest-merge-of-two-strings](https://github.com/yosobanta/leetcode_QA/tree/master/1754-largest-merge-of-two-strings) |
@@ -409,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/yosobanta/leetcode_QA/tree/master/0287-find-the-duplicate-number) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/yosobanta/leetcode_QA/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Backtracking
 |  |
@@ -525,4 +529,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/yosobanta/leetcode_QA/tree/master/0084-largest-rectangle-in-histogram) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yosobanta/leetcode_QA/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/yosobanta/leetcode_QA/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
