@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/yosobanta/leetcode_QA/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/yosobanta/leetcode_QA/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/yosobanta/leetcode_QA/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/yosobanta/leetcode_QA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/yosobanta/leetcode_QA/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/yosobanta/leetcode_QA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/yosobanta/leetcode_QA/tree/master/0057-insert-interval) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yosobanta/leetcode_QA/tree/master/0054-spiral-matrix) |
 | [0419-battleships-in-a-board](https://github.com/yosobanta/leetcode_QA/tree/master/0419-battleships-in-a-board) |
 | [0529-minesweeper](https://github.com/yosobanta/leetcode_QA/tree/master/0529-minesweeper) |
 | [0931-minimum-falling-path-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0931-minimum-falling-path-sum) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/yosobanta/leetcode_QA/tree/master/0054-spiral-matrix) |
 | [2974-minimum-number-game](https://github.com/yosobanta/leetcode_QA/tree/master/2974-minimum-number-game) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/yosobanta/leetcode_QA/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Database
