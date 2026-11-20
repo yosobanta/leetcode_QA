@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/yosobanta/leetcode_QA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yosobanta/leetcode_QA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yosobanta/leetcode_QA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0039-combination-sum](https://github.com/yosobanta/leetcode_QA/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/yosobanta/leetcode_QA/tree/master/0042-trapping-rain-water) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/yosobanta/leetcode_QA/tree/master/0015-3sum) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/yosobanta/leetcode_QA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/yosobanta/leetcode_QA/tree/master/0042-trapping-rain-water) |
 | [0202-happy-number](https://github.com/yosobanta/leetcode_QA/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/yosobanta/leetcode_QA/tree/master/0287-find-the-duplicate-number) |
